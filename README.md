@@ -1,0 +1,2 @@
+# MINI-PROJECT-OF-BUSINESS-APPLICATION-OF-ARTIFICIAL-INTELLIGENCE
+Predicting Loan Defaulters Using Machine Learning
